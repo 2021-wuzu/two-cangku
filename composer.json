@@ -1,0 +1,16 @@
+{
+    "name": "xiaohigh/test",
+    "description": "this is a test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaohigh",
+            "email": "liximing2011@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{"xiaohigh\\":"src"}
+    }
+}
